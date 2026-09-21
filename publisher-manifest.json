@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "57af472d88a9e17055c33e14",
+  "owner": "lnzlwsdd",
+  "repo": "page-d209e1622c9f2792bc3387cf",
+  "title": "兄弟们永远的神",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d209e1622c9f2792bc3387cf",
+      "a": "兄弟们永远的神",
+      "b": "稳定全球clash加速器",
+      "entity": "兄弟们永远的神",
+      "brand": "兄弟们永远的神",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f6a631395402c4b1e9c29136a8825c16b6d65761a42f651491c1c086dbc8c05e",
+      "content": {
+        "primary_entity": "兄弟们永远的神",
+        "keyword1": "兄弟们永远的神",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端配置订阅开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配客户端",
+          "AI_DESCRIPTION": "，提供 Clash 订阅配置和多个客户端下载，按设备数量与流量需求选择基础版、旗舰版或团队版，合理规划使用场景。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量需求和订阅周期展开。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，覆盖日常多终端。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，支持企业定制路由，适合小型团队共享。",
+          "AI_FEATURE_TEXT_3": "按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按设备规模选",
+          "AI_FEATURE_TITLE_2": "看流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期对比",
+          "AI_GUIDE_INTRO": "先选服务，再看适配要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "简单三步开始使用",
+          "AI_HERO_INTRO": "兄弟们永远的神提供稳定全球加速服务，覆盖多种设备和客户端。根据设备数量与流量需求，选择基础版、旗舰版或团队版，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "稳定加速，多端可用",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按流量和设备数对比选择。",
+          "AI_PLANS_TITLE": "对比套餐再选择",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和订阅周期，确认适配自己的设备。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按文档导入订阅配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "兄弟们永远的神加速服务",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并带 IPLC 专线节点，适合游戏和流媒体场景。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，还提供高带宽节点与定制路由，适合多人共享或小型团队办公使用。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格如何换算？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，年付相当于十个月的价格。",
+          "AI_FAQ_QUESTION_4": "可以在多台设备上同时使用一个订阅吗？",
+          "AI_FAQ_ANSWER_4": "同时在线数量取决于所选套餐，基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台，超出数量时需升级套餐。",
+          "AI_FAQ_QUESTION_5": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "先按设备系统安装对应客户端，然后在客户端中导入订阅地址或配置信息，保存后选择节点连接即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdubhzw.cn",
+    "host": "qdubhzw.cn"
+  },
+  "file_hashes": {
+    "index.html": "11a962616d9c36a68fe1438b9d569f0e5143f7ea788caca6a54ba8a1df2c3f48",
+    "sitemap.xml": "e2f0b2e7ccf1cdc0209a418f71a3055cb342c211c24d99db3af6d0b61db7aae7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb5ae8ae257cdb6f2c94f706cbd5072e3815c17521820f74eb88b8a9b4a4ed19",
+    "robots.txt": "ac4620db46474244d55b16481e7a89e0ea5e79cdddbfc91dc243b0c9b163daac",
+    "5ea1fce719c3b9df2cbbeb9053121242.txt": "5df688db8ec17b7c8acfc33d8211cb14c00d9abdc59218b82ee1a363f95b02ff"
+  },
+  "revision": "53775d1c2a6d66afae24df49c52199d5779107a3c3f6dc22d71faf9c3a77e19f"
+}
